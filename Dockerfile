@@ -2,8 +2,10 @@ from ruby:3.1.2-slim
 
 RUN apt update && apt -y upgrade
 RUN apt install -y \
+  cmake \
   bison \
   gcc \
+  g++ \
   gcc-arm-linux-gnueabi \
   git \
   make \

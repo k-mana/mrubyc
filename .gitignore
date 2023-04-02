@@ -1,10 +1,12 @@
 # Executables
-sample_scheduler
-sample_include
-sample_concurrent
-sample_myclass
-sample_no_scheduler
 mrbc
+
+# Build directories
+build
+
+# Test directories
+test_host
+test_arm
 
 # hal
 #src/hal

@@ -1,0 +1,5 @@
+---
+test_dir: ${TEST_DIR}
+test_tmp_dir: ${TEST_TMP_DIR}
+mrubyc_src_dir: ${MRUBYC_SRC_DIR}
+mruby_lib_dir: ${MRUBY_LIB_DIR}
